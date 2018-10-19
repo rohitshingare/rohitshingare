@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "587000651860",
+    "firebase_url": "https://dishservices-f5757.firebaseio.com",
+    "project_id": "dishservices-f5757",
+    "storage_bucket": "dishservices-f5757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587000651860:android:dfb58e52e2aeeda2",
+        "android_client_info": {
+          "package_name": "com.example.dell.dishservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587000651860-2f2d1vjkj5d2vh2qgn27h9hcsbmb7p0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.dishservices",
+            "certificate_hash": "36e064f005c8270289293359cba5b419edcda1db"
+          }
+        },
+        {
+          "client_id": "587000651860-d01cq0ltk1mk105fs0qgqeqoeurrfpj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9H40QGEpAYB_CY7J7CANOFexNbMLOkcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587000651860-d01cq0ltk1mk105fs0qgqeqoeurrfpj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

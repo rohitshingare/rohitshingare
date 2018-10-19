@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+   <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#D81B60</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mycol">#FF080404</color>
+    <color name="white">#ffffff</color>
+    <color name="cardbg">#EDC937ED</color>
+    <color name="myblack">#FF080607</color>
+    <color name="azur">#f1f5f8</color>
+    <color name="textco">#F12B7D</color>
+</resources>
